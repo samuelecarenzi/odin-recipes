@@ -14,5 +14,6 @@ Concepts list:
 -Workflow as a programmer, what are the best practice and community standards
 -Decide on what should I focus next to improve my skills
 -Eat my total body weight in pizza and loose weight(sigh...)
+-BEEEEEER
 
  
